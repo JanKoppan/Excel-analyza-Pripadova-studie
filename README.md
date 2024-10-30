@@ -1,2 +1,2 @@
-# Excel---Anal-za
-Analýza pro marketingovou firmu
+# Excel---Analyza
+Mnou vypracovaný projekt pro výběrové řízení pro marketingovou firmu v Excelu.
